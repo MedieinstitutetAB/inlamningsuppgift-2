@@ -1,4 +1,4 @@
-# Inlämningsuppgift 2 (Webbteknikter)
+# Inlämningsuppgift 2 (Webbtekniker)
 
 ## Beskrivning
 Studenten skall skriva om och presentera en webbteknik inklusive kodexempel eller likvärdigt exempel på hur tekniken används. 
